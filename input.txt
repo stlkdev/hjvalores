@@ -1,0 +1,7 @@
+// Adcionar valores abaixo incluíndo assinatura com seu nick para creditos :)
+// Formatação: UM mobi por linha, preço FLOAT (sem "c") entre "$", nome do mobi entre "#" e assinatura entre "~"
+// Exemplo de formatação: $54.75$     #Boneco Articulado#      ~:.misterzinho.:~
+
+$00.00$     #Nome_Do_Mobi#      ~Sua_Assinatura~
+$54.75$     #Boneco Articulado#      ~:.misterzinho.:~
+
